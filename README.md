@@ -3,4 +3,5 @@ Music player using JavaScript &amp; HTML &amp; CSS
 
 
 
-![image](https://github.com/user-attachments/assets/07d36ea8-a8e6-43b8-b74a-60eca904be30)
+![image](https://github.com/user-attachments/assets/7c4b9812-7936-4d95-bac5-b0cb533c5666)
+
